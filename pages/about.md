@@ -1,18 +1,17 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 今将下古道，祭酒而别秦
+keywords: lei bai, 白磊
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+春种一粒粟，秋收万颗子。
+四海无闲田，农夫犹饿死。
+锄禾日当午，汗滴禾下土。
+谁知盘中餐，粒粒皆辛苦。
 
 ## 联系
 
