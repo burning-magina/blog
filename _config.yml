@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.bailei.tech/blog/
+url: http://www.bailei.tech/blog
 date_format: "ordinal"
 title: 简爱
 subtitle: "学习改变命运"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: bai lei
 organization: bailei.tech
-organization_url: http://www.bailei.tech/blog/
+organization_url: http://www.bailei.tech/blog
 github_username: burning-magina
 location: shanxi, China
 email: yuanquan.ni@qq.com
