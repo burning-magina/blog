@@ -8,13 +8,13 @@
 
 - name: Mobile Developer Keywords
   keywords:
-      - Android-不会
-      - Reverse Engineering-不会
+      - Android-can't
+      - Reverse Engineering-can't
 
 - name: Windows Developer Keywords
   keywords:
-      - Win32 SDK-不会
-      - DuiLib-不会
-      - WTL-不会
-      - COM-不会
-      - WinDbg-不会
+      - Win32 SDK-can't
+      - DuiLib-can't
+      - WTL-can't
+      - COM-can't
+      - WinDbg-can't
