@@ -4,16 +4,17 @@
       - JavaScript
       - oracle
       - SpringMVC
+      - jpa
 
 - name: Mobile Developer Keywords
   keywords:
-      - Android
-      - Reverse Engineering
+      - Android-不会
+      - Reverse Engineering-不会
 
 - name: Windows Developer Keywords
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Win32 SDK-不会
+      - DuiLib-不会
+      - WTL-不会
+      - COM-不会
+      - WinDbg-不会

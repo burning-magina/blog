@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 使用servlet结合jsp开发购物车功能
-categories: Excel
+categories: servlet
 description: 使用servlet结合jsp开发购物车功能
 keywords: servlet, jsp, java
 ---
 
-[toc]
 #购物车
 
 >在开发购物车之前，首先要把几个关键类之间的关系理清楚
@@ -17,7 +16,7 @@ keywords: servlet, jsp, java
 2. User 用户
 3. Order 订单
 4. OrderItem 订单项
-![error](leanote://file/getImage?fileId=58d48eca0b47e54e4b000014)
+<img align="center" src="http://www.bailei.tech/blog/master/images/servlet/1.png"/>
 
 订单项
 
@@ -33,4 +32,4 @@ keywords: servlet, jsp, java
 3. 订单和用户的关系： 多对一
 一个订单，只能属于一个用户
 一个用户，可以下多个订单
-![](leanote://file/getImage?fileId=58d48eda0b47e54e4b000015)
+<img align="center" src="http://www.bailei.tech/blog/master/images/servlet/2.png"/>
