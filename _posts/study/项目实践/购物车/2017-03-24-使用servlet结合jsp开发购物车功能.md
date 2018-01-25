@@ -16,7 +16,7 @@ keywords: servlet, jsp, java
 2. User 用户
 3. Order 订单
 4. OrderItem 订单项
-<img align="center" src="http://www.bailei.tech/blog/master/images/servlet/1.png"/>
+<img align="center" src="https://github.com/burning-magina/blog/blob/master/images/servlet/1.png"/>
 
 订单项
 
@@ -32,4 +32,4 @@ keywords: servlet, jsp, java
 3. 订单和用户的关系： 多对一
 一个订单，只能属于一个用户
 一个用户，可以下多个订单
-<img align="center" src="http://www.bailei.tech/blog/master/images/servlet/2.png"/>
+<img align="center" src="https://github.com/burning-magina/blog/blob/master/images/servlet/2.png"/>
