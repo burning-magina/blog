@@ -1,7 +1,7 @@
 ---
 layout: post
 title: javascript中正则表达式学习
-categories: javascript,正则表达式
+categories: javascript
 description: javascript中正则表达式学习
 keywords: javascript,正则表达式
 ---
@@ -18,13 +18,9 @@ var reg =new RegExp("\\?(\\w{1,}=\\w{1,}&){1,}\\w{1,}=\\w{1,}");
 
     1. 使用构造函数定义正则表达式，注意大小写，否则就会不起作用。
     2. 特殊字符就需要使用\进行转义。javascript中特殊字符如下：
- 
-        
 	
         * . ? + $ ^ [ ] ( ) { } | \ / 
 
-        
- 
 --------
 
  - 通过2个斜杠 //
@@ -106,7 +102,7 @@ var date = /^(\d{1,4})(-|\/)(\d{1,2})(-|\/)(\d{1,2})$/;
 1. 校验基本日期格式
     >(1-4位数字) + (/或者\|) + (1-2位数字) + (/或者\|) + (1-2位数字)
 
-    ``` javascropt
+    ``` javascript
     var reg = /^(\d{1,4})(-|\/)(\d{1,2})(-|\/)(\d{1,2})$/;
     reg.lastIndex = 0;//调试函数test（）专属用句，不然你会怀疑正则表达式的能力
     reg.test('1999-02-30');
