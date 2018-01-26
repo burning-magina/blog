@@ -6,7 +6,7 @@ description: 使用servlet结合jsp开发购物车功能
 keywords: servlet, jsp, java
 ---
 
-#购物车
+# 购物车
 
 >在开发购物车之前，首先要把几个关键类之间的关系理清楚
 
